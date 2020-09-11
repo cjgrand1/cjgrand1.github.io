@@ -69,6 +69,10 @@ a.hyperlink2:hover {
 	color: rgb(100, 100, 100);
 }
 
+.red {
+	color: #990033;
+}
+
 .resume_heading {
 	margin-top: 50px;
 	margin-bottom: 3px;
