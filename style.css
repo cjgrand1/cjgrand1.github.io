@@ -1,0 +1,97 @@
+body {
+	margin: 0px;
+}
+
+.box {
+	width: 100%;
+	position: absolute;
+
+}
+
+
+.intro {
+	position: absolute;
+	font-size: 20px;
+	margin-left: 50px;
+	margin-bottom: 0px;
+	text-align: left;
+	width: 95%;
+	color: white;
+	font-family: Helvetica;
+}
+
+.name {
+	width: 30%;
+}
+
+h6 {
+	margin-top: 10px;
+	text-align: right;
+}
+
+.intro_about {
+	font-size: 15px;
+	width: 30%;
+}
+
+.resume {
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family: helvetica;
+}
+
+a.hyperlink1:link, a.hyperlink1:visited {
+	color: #ffffff;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a.hyperlink1:hover {
+	color: #FFB310;
+	text-decoration: underline;
+}
+
+a.hyperlink2:link, a.hyperlink2:visited {
+	color: #990033;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+
+a.hyperlink2:hover {
+	color: #FFB310;
+	text-decoration: underline;
+}
+
+
+.back {
+	margin-top: 50px;
+	color: rgb(100, 100, 100);
+}
+
+.resume_heading {
+	margin-top: 50px;
+	margin-bottom: 3px;
+	font-size: 50px;
+	color: rgb(0, 0, 85);
+}
+
+.resume_subheading {
+	margin-top: 3px;
+	margin-left: 2px;
+	margin-bottom: 3px;
+	color: #990033;
+}
+
+.resume_extra {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.resume_details {
+	text-transform: uppercase;
+	margin-top: 3px;
+	margin-left: 2px;
+	margin-right: 50%;
+	color: rgb(0, 0, 85);
+}
